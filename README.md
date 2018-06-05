@@ -1,2 +1,2 @@
-# WordPress-Active-Archive-Menu-Items
-Mark archive pages as active in nav menus
+# Active Archive Menu Items
+Marks archive pages as active in nav menus
